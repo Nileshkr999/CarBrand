@@ -6,6 +6,7 @@ public class Mghector {
 		// TODO Auto-generated method stub
 System.out.println("car name is Mghector");
 		System.out.println("car name is Mghector1564lw;ld");
+		System.out.println("car name is Mghector15lw;ld");
 	}
 
 }
